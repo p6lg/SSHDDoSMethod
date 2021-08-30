@@ -1,2 +1,3 @@
 # SSHDDoSMethod
+Since ovh wants to be a bitch and ignore me about this issue im leaking it for a 2nd time.... 
 This method is a TCP flood allowing you to take down SSH/TELNET/RAW Connection types with PUSH, SYN and ACK packets
